@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
 	<classpathentry exported="true" kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=jsword&amp;ivyXmlPath=ivy.xml&amp;confs=*"/>
-	<classpathentry kind="lib" path="/AndBible/libs/commons-compress-1.7.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/eventbus-2.2.1.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/jdom2-2.0.5.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/xz-1.4.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/mmseg4j-all-1.8.4.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/slf4j-android-1.7.7.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/slf4j-api-1.7.7.jar"/>
-	<classpathentry kind="lib" path="/android-support-v7-appcompat/libs/android-support-v4.jar"/>
-	<classpathentry kind="lib" path="/android-support-v7-appcompat/libs/android-support-v7-appcompat.jar"/>
-	<classpathentry kind="lib" path="/home/tairaksinen/ohjelmointi/and_bible_etc/httpcomponents-core-4.4.1/lib/commons-cli-1.2.jar"/>
-	<classpathentry kind="lib" path="/home/tairaksinen/ohjelmointi/and_bible_etc/httpcomponents-client-4.5/lib/httpclient-4.5.jar"/>
-	<classpathentry kind="lib" path="/home/tairaksinen/ohjelmointi/and_bible_etc/httpcomponents-client-4.5/lib/httpcore-4.4.1.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/lucene-analyzers-3.0.3.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/lucene-core-3.0.3.jar"/>
-	<classpathentry kind="lib" path="/AndBible/libs/lucene-snowball-3.0.3.jar"/>
-	<classpathentry kind="lib" path="/home/tairaksinen/ohjelmointi/and_bible_etc/lucene-4.10.4/analysis/smartcn/lucene-analyzers-smartcn-4.10.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
